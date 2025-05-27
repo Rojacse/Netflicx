@@ -220,11 +220,6 @@ nav button {
 .card-hover:hover {
   transform: scale(1.05);
 }
-
-.number-label:hover {
-  animation: blink;
-}
-
 .more-section {
   min-height: 100vh;
   padding: 20px;
